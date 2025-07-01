@@ -1,6 +1,0 @@
-/opt/GBSI/build/CMakeFiles/edit_cache.dir
-/opt/GBSI/build/CMakeFiles/rebuild_cache.dir
-/opt/GBSI/build/memtable/CMakeFiles/benchmark_insert.dir
-/opt/GBSI/build/memtable/CMakeFiles/benchmark_query.dir
-/opt/GBSI/build/memtable/CMakeFiles/edit_cache.dir
-/opt/GBSI/build/memtable/CMakeFiles/rebuild_cache.dir
